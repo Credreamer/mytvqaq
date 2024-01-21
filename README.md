@@ -33,7 +33,7 @@
     <tr>
       <td>①</td>
       <td>仓库线路推送</td>
-      <td>https://w6566.github.io/tvlive/wj.json</td>
+      <td>https://mytvqaq.github.io/tvlive/wj.json</td>
       <td>✔</td>
       <td>✔</td>
     </tr>
